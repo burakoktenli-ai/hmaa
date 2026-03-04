@@ -7,7 +7,7 @@
 
 **Author:** Burak Oktenli · Georgetown University, School of Continuing Studies — MPS Applied Intelligence  
 **Live Demo:** https://burakoktenli-ai.github.io/hmaa  
-**Technical Report (v2.4.2): https://doi.org/10.5281/zenodo.18861653
+**Technical Report (v2.4.2):** https://doi.org/10.5281/zenodo.18861653
 
 ---
 
