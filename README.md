@@ -290,6 +290,20 @@ node simulate.js scenarios/custom.json          --seed 42 --out results.json
 
 ---
 
+## TL;DR (30 seconds)
+
+HMAA is a deterministic authority-gating engine for autonomous systems.
+
+It computes a value **A ∈ [0,1]** from four inputs (Q, C, E, τ) and maps the result to five authority tiers (T0–T4).
+
+The goal is to prevent unsafe authority escalation when sensor trust is degraded or electronic warfare threat is high.
+
+Quick test:
+
+node simulate.js --builtin nominal --seed 42
+
+---
+
 ## Citation
 
 DOI assigned on Zenodo upload:
