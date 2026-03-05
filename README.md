@@ -11,7 +11,7 @@
 ---
 ## Architecture Overview
 
-![HMAA Architecture](docs/hmaa_architecture.png)
+![HMAA Architecture](docs/hmaa_architecture)
 
 ## What is HMAA?
 
