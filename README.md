@@ -9,6 +9,9 @@
 **Live Demo:** https://burakoktenli-ai.github.io/hmaa  
 **Technical Report (v2.4.2):** https://doi.org/10.5281/zenodo.18861653
 ---
+## Architecture Overview
+
+![HMAA Architecture](docs/hmaa_architecture.png)
 
 ## What is HMAA?
 
