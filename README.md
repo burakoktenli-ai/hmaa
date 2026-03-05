@@ -5,18 +5,6 @@
 [![Node](https://img.shields.io/badge/node-%3E%3D16-brightgreen.svg)](https://nodejs.org/)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0001--8573--1667-a6ce39.svg)](https://orcid.org/0009-0001-8573-1667)
 
-## TL;DR (30 seconds)
-
-HMAA is a deterministic authority-gating engine for autonomous systems.
-
-It computes a value **A ∈ [0,1]** from four inputs (Q, C, E, τ) and maps the result to five authority tiers (T0–T4).
-
-The goal is to prevent unsafe authority escalation when sensor trust is degraded or electronic warfare threat is high.
-
-Quick test:
-
-node simulate.js --builtin nominal --seed 42
-
 **Author:** Burak Oktenli · Georgetown University, School of Continuing Studies — MPS Applied Intelligence  
 **Live Demo:** https://burakoktenli-ai.github.io/hmaa  
 **Technical Report (v2.4.2):** https://doi.org/10.5281/zenodo.18861653
